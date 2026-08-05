@@ -108,12 +108,11 @@ Contributing to **[browser-use](https://github.com/browser-use/browser-use)** (~
 ### 📊 GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AhmadAbdullahh&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark&title_color=58A6FF&icon_color=58A6FF" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadAbdullahh&layout=compact&hide_border=true&langs_count=8&theme=github_dark&title_color=58A6FF" alt="Top languages"/>
+  <img height="180" src="https://streak-stats.demolab.com/?user=AhmadAbdullahh&hide_border=true&theme=github-dark&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="Contribution streak"/>
 </p>
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com/?user=AhmadAbdullahh&hide_border=true&theme=github-dark&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="Streak"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmadAbdullahh&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20activity" alt="Contribution activity graph"/>
 </p>
 
 ---
